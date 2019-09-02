@@ -18,4 +18,5 @@ int main()
             cout << "Too high!" << endl;
     }
     cout << "Correct!" << endl;
+    return 0;
 }
